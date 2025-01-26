@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1876-map-of-highest-peak) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
+| [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Dynamic Programming
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
+| [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
 ## Two Pointers
 |  |
 | ------- |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
+| [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
 ## Hash Function
 |  |
 | ------- |
@@ -99,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
+## Counting
+|  |
+| ------- |
+| [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
 <!---LeetCode Topics End-->
