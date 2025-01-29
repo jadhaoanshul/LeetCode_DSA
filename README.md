@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0820-find-eventual-safe-states) |
 | [1876-map-of-highest-peak](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1876-map-of-highest-peak) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
@@ -71,12 +72,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0820-find-eventual-safe-states) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Graph
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0820-find-eventual-safe-states) |
 ## Topological Sort
 |  |
@@ -99,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union Find
 |  |
 | ------- |
+| [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Math
