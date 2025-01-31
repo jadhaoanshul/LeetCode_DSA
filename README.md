@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0134-gas-station) |
+| [0136-single-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0136-single-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [1833-find-the-highest-altitude](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1833-find-the-highest-altitude) |
@@ -141,4 +142,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0039-combination-sum) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
