@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
 ## Two Pointers
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
 | [0072-edit-distance](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0072-edit-distance) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 ## Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
+| [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
 ## Divide and Conquer
 |  |
