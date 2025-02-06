@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
+| [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
 | [1833-find-the-highest-altitude](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
+| [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
@@ -142,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
+| [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
 ## Divide and Conquer
