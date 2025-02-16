@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0792-binary-search](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1833-find-the-highest-altitude](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1833-find-the-highest-altitude) |
 | [1876-map-of-highest-peak](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1876-map-of-highest-peak) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1878-check-if-array-is-sorted-and-rotated) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0078-subsets) |
+| [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Bit Manipulation
 |  |
 | ------- |
