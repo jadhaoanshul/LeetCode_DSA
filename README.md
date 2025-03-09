@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [1160-letter-tile-possibilities](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
@@ -193,7 +195,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3447-clear-digits) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
