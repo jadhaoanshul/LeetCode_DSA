@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0792-binary-search) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Sorting
 |  |
 | ------- |
@@ -166,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
+| [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Divide and Conquer
 |  |
 | ------- |
