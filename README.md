@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1950-sign-of-the-product-of-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1950-sign-of-the-product-of-an-array) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1876-map-of-highest-peak](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1876-map-of-highest-peak) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
@@ -151,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1950-sign-of-the-product-of-an-array) |
+| [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2649-count-total-number-of-colored-cells) |
 ## String
 |  |
