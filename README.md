@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2262-solving-questions-with-brainpower](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2262-solving-questions-with-brainpower) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0072-edit-distance) |
 | [0118-pascals-triangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0118-pascals-triangle) |
+| [2262-solving-questions-with-brainpower](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2262-solving-questions-with-brainpower) |
 ## Breadth-First Search
 |  |
 | ------- |
