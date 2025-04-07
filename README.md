@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
+| [2128-reverse-prefix-of-word](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
 |  |
 | ------- |
@@ -174,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2053-check-if-all-characters-have-equal-number-of-occurrences](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2053-check-if-all-characters-have-equal-number-of-occurrences) |
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2076-sum-of-digits-of-string-after-convert) |
+| [2128-reverse-prefix-of-word](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2128-reverse-prefix-of-word) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3447-clear-digits) |
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [2128-reverse-prefix-of-word](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2128-reverse-prefix-of-word) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3447-clear-digits) |
 ## Monotonic Stack
