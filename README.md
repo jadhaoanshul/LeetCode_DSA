@@ -145,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3243-count-the-number-of-powerful-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3447-clear-digits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Tree
 |  |
 | ------- |
@@ -291,6 +293,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Combinatorics
 |  |
 | ------- |
@@ -301,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1656-count-good-triplets](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1656-count-good-triplets) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2337-remove-digit-from-number-to-maximize-result) |
+| [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Binary Indexed Tree
 |  |
 | ------- |
