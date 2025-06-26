@@ -202,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2032-largest-odd-number-in-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2032-largest-odd-number-in-string) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
+| [2383-add-two-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2649-count-total-number-of-colored-cells) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 ## String
