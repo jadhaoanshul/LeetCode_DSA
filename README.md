@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2383-add-two-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2383-add-two-integers) |
 | [2649-count-total-number-of-colored-cells](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2649-count-total-number-of-colored-cells) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## String
 |  |
 | ------- |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0136-single-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2159-two-out-of-three) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
 | ------- |
@@ -286,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2076-sum-of-digits-of-string-after-convert](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2076-sum-of-digits-of-string-after-convert) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3447-clear-digits) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Stack
 |  |
 | ------- |
@@ -341,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0206-reverse-linked-list) |
+| [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
 | ------- |
