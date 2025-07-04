@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0541-reverse-string-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0541-reverse-string-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0344-reverse-string) |
+| [0541-reverse-string-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0541-reverse-string-ii) |
 | [0824-number-of-lines-to-write-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0824-number-of-lines-to-write-string) |
 | [1160-letter-tile-possibilities](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
