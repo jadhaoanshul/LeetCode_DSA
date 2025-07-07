@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0118-pascals-triangle) |
 | [0134-gas-station](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0134-gas-station) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0155-min-stack](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0155-min-stack) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0735-asteroid-collision) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0042-trapping-rain-water) |
+| [0084-largest-rectangle-in-histogram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
 | [2227-sum-of-subarray-ranges](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2227-sum-of-subarray-ranges) |
