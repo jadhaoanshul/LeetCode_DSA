@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2159-two-out-of-three](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2159-two-out-of-three) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
+| [2227-sum-of-subarray-ranges](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2227-sum-of-subarray-ranges) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2249-count-the-hidden-sequences](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2249-count-the-hidden-sequences) |
 | [2262-solving-questions-with-brainpower](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2262-solving-questions-with-brainpower) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2128-reverse-prefix-of-word) |
+| [2227-sum-of-subarray-ranges](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2227-sum-of-subarray-ranges) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2456-construct-smallest-number-from-di-string) |
 | [3447-clear-digits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3447-clear-digits) |
 ## Monotonic Stack
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0042-trapping-rain-water) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
+| [2227-sum-of-subarray-ranges](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2227-sum-of-subarray-ranges) |
 ## Sliding Window
 |  |
 | ------- |
