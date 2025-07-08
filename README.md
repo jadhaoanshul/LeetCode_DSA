@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3194-find-words-containing-character](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Dynamic Programming
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-rings-and-rods](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2226-rings-and-rods) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 ## Two Pointers
@@ -293,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2159-two-out-of-three) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Simulation
 |  |
