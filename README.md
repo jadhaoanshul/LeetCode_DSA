@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0205-isomorphic-strings) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -232,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0345-reverse-vowels-of-a-string) |
+| [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [0541-reverse-string-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0541-reverse-string-ii) |
 | [0824-number-of-lines-to-write-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0824-number-of-lines-to-write-string) |
 | [1160-letter-tile-possibilities](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1160-letter-tile-possibilities) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
+| [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2159-two-out-of-three) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
