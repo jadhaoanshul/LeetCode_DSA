@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0205-isomorphic-strings) |
+| [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0792-binary-search) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1335-maximum-candies-allocated-to-k-children) |
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
+| [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -206,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
+| [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1950-sign-of-the-product-of-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1950-sign-of-the-product-of-an-array) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
@@ -285,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 | [2159-two-out-of-three](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2159-two-out-of-three) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
