@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0039-combination-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0039-combination-sum) |
 | [0042-trapping-rain-water](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0042-trapping-rain-water) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0141-linked-list-cycle) |
