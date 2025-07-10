@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [0824-number-of-lines-to-write-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0824-number-of-lines-to-write-string) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
+| [1046-max-consecutive-ones-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0792-binary-search](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0792-binary-search) |
+| [1046-max-consecutive-ones-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1833-find-the-highest-altitude](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0239-sliding-window-maximum) |
+| [1046-max-consecutive-ones-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
