@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0045-jump-game-ii) |
 | [0072-edit-distance](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0072-edit-distance) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0010-regular-expression-matching](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
 | [0068-text-justification](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0072-edit-distance) |
@@ -406,6 +408,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0010-regular-expression-matching](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0010-regular-expression-matching) |
 | [0206-reverse-linked-list](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0206-reverse-linked-list) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
