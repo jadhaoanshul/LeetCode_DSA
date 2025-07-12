@@ -426,4 +426,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0239-sliding-window-maximum) |
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
+## Database
+|  |
+| ------- |
+| [0595-big-countries](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0595-big-countries) |
 <!---LeetCode Topics End-->
