@@ -270,6 +270,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0541-reverse-string-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0541-reverse-string-ii) |
+| [0812-rotate-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0824-number-of-lines-to-write-string) |
 | [1160-letter-tile-possibilities](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1160-letter-tile-possibilities) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
@@ -450,4 +451,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
