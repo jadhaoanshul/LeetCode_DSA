@@ -11,19 +11,17 @@
 class Solution {
 public:
     int getDecimalValue(ListNode* head) {
-        ListNode* temp = head;
-        int c = 0;
-        while(temp!= NULL){
-            c++;
-            temp=temp->next;
+        vector<int> res;
+        while(head!= NULL){
+            res.push_back(head->val);
+            head = head->next;
         }
-        int ans=0;
-        temp = head;
-        while(temp!= NULL){
-            c--;
-            ans += temp->val * pow(2,c);
-            temp = temp->next;
+        int idx=0;
+        int n = res.size();
+
+        for(int i=0; i<n; i++){
+            idx += res[i]*pow(2, n - 1 - i);
         }
-        return ans;
+        return idx;
     }
 };
