@@ -291,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3194-find-words-containing-character](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3194-find-words-containing-character) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3243-count-the-number-of-powerful-integers) |
+| [3396-valid-word](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3396-valid-word) |
 | [3447-clear-digits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3447-clear-digits) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
