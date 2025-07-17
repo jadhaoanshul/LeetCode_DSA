@@ -127,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [0966-binary-subarrays-with-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0966-binary-subarrays-with-sum) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
+| [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0424-longest-repeating-character-replacement) |
+| [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0541-reverse-string-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0541-reverse-string-ii) |
 | [0812-rotate-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0824-number-of-lines-to-write-string) |
@@ -305,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1160-letter-tile-possibilities](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
@@ -442,6 +446,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0239-sliding-window-maximum) |
+| [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
 ## Database
 |  |
@@ -459,4 +464,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0812-rotate-string) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
