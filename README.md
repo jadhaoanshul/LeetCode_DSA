@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1046-max-consecutive-ones-iii) |
 | [1293-three-consecutive-odds](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1348-maximum-score-of-spliced-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1348-maximum-score-of-spliced-array) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1364-tuple-with-same-product](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0118-pascals-triangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0118-pascals-triangle) |
 | [0300-longest-increasing-subsequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
+| [1348-maximum-score-of-spliced-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1348-maximum-score-of-spliced-array) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2262-solving-questions-with-brainpower) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3243-count-the-number-of-powerful-integers) |
