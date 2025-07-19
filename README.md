@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0072-edit-distance](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0072-edit-distance) |
 | [0085-maximal-rectangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0118-pascals-triangle) |
+| [0131-palindrome-partitioning](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0131-palindrome-partitioning) |
 | [0300-longest-increasing-subsequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
 | [1348-maximum-score-of-spliced-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1348-maximum-score-of-spliced-array) |
@@ -285,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
 | [0068-text-justification](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0068-text-justification) |
 | [0072-edit-distance](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0072-edit-distance) |
+| [0131-palindrome-partitioning](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0242-valid-anagram) |
@@ -355,6 +357,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0078-subsets) |
+| [0131-palindrome-partitioning](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0131-palindrome-partitioning) |
 | [1160-letter-tile-possibilities](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
