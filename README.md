@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
+| [0502-ipo](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0502-ipo) |
 | [0735-asteroid-collision](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0045-jump-game-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0134-gas-station) |
+| [0502-ipo](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0502-ipo) |
 | [2032-largest-odd-number-in-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0502-ipo) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -479,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0215-kth-largest-element-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0239-sliding-window-maximum) |
 | [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
+| [0502-ipo](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0502-ipo) |
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
 ## Database
 |  |
