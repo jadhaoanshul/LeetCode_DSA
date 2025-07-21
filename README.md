@@ -286,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
+| [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0205-isomorphic-strings) |
+| [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0345-reverse-vowels-of-a-string) |
@@ -414,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0085-maximal-rectangle) |
 | [0155-min-stack](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
@@ -483,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0010-regular-expression-matching) |
 | [0060-permutation-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
