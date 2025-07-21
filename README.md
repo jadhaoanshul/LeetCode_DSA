@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0134-gas-station) |
 | [0136-single-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0136-single-number) |
+| [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0229-majority-element-ii) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0128-longest-consecutive-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0141-linked-list-cycle) |
+| [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0229-majority-element-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
 | [0060-permutation-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0060-permutation-sequence) |
+| [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -527,4 +530,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2079-delete-duplicate-folders-in-system) |
+## Geometry
+|  |
+| ------- |
+| [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
 <!---LeetCode Topics End-->
