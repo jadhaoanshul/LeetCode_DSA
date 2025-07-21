@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0085-maximal-rectangle) |
 | [0118-pascals-triangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0118-pascals-triangle) |
 | [0131-palindrome-partitioning](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0131-palindrome-partitioning) |
+| [0233-number-of-digit-one](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0233-number-of-digit-one) |
 | [0300-longest-increasing-subsequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
 | [0546-remove-boxes](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0546-remove-boxes) |
@@ -287,6 +288,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -487,6 +489,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0233-number-of-digit-one) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
 |  |
