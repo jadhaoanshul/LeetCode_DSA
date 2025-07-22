@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0100-same-tree) |
 | [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0820-find-eventual-safe-states) |
 | [1876-map-of-highest-peak](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1876-map-of-highest-peak) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0100-same-tree) |
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
 | [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0820-find-eventual-safe-states) |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
 ## Counting
@@ -380,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Tree
 |  |
 | ------- |
+| [0100-same-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0100-same-tree) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 ## Backtracking
 |  |
