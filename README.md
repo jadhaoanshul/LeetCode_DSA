@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1348-maximum-score-of-spliced-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1348-maximum-score-of-spliced-array) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2262-solving-questions-with-brainpower) |
+| [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Breadth-First Search
