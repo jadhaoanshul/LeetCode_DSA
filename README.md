@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0134-gas-station) |
 | [0502-ipo](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0502-ipo) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2337-remove-digit-from-number-to-maximize-result) |
@@ -332,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1350-remove-sub-folders-from-the-filesystem](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1350-remove-sub-folders-from-the-filesystem) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1797-goal-parser-interpretation](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1797-goal-parser-interpretation) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2032-largest-odd-number-in-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2032-largest-odd-number-in-string) |
@@ -428,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0735-asteroid-collision](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0735-asteroid-collision) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
+| [1818-maximum-score-from-removing-substrings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2128-reverse-prefix-of-word](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2128-reverse-prefix-of-word) |
 | [2227-sum-of-subarray-ranges](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2227-sum-of-subarray-ranges) |
