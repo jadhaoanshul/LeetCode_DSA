@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0300-longest-increasing-subsequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0377-combination-sum-iv) |
+| [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
 | [0493-reverse-pairs](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0493-reverse-pairs) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0130-surrounded-regions) |
 | [0279-perfect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0279-perfect-squares) |
+| [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0820-find-eventual-safe-states) |
 | [1876-map-of-highest-peak](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1876-map-of-highest-peak) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0100-same-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0100-same-tree) |
 | [0130-surrounded-regions](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
 | [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0820-find-eventual-safe-states) |
@@ -259,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [0820-find-eventual-safe-states](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0820-find-eventual-safe-states) |
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
@@ -293,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0130-surrounded-regions) |
+| [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
 | [0684-redundant-connection](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0684-redundant-connection) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -333,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
+| [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0424-longest-repeating-character-replacement) |
 | [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
@@ -562,4 +568,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
+## Shortest Path
+|  |
+| ------- |
+| [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
 <!---LeetCode Topics End-->
