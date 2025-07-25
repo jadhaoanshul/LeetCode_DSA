@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2220-find-all-possible-recipes-from-given-supplies](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2220-find-all-possible-recipes-from-given-supplies) |
 | [2226-rings-and-rods](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2226-rings-and-rods) |
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
 | [3265-maximum-good-subarray-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3265-maximum-good-subarray-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -491,6 +493,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1813-maximum-erasure-value](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1813-maximum-erasure-value) |
 | [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Combinatorics
 |  |
