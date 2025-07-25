@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0966-binary-subarrays-with-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1046-max-consecutive-ones-iii) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1293-three-consecutive-odds](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1293-three-consecutive-odds) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1348-maximum-score-of-spliced-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1348-maximum-score-of-spliced-array) |
@@ -111,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
 | [0546-remove-boxes](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0546-remove-boxes) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
+| [1288-maximum-subarray-sum-with-one-deletion](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1288-maximum-subarray-sum-with-one-deletion) |
 | [1348-maximum-score-of-spliced-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1348-maximum-score-of-spliced-array) |
 | [2028-the-earliest-and-latest-rounds-where-players-compete](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2028-the-earliest-and-latest-rounds-where-players-compete) |
 | [2262-solving-questions-with-brainpower](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2262-solving-questions-with-brainpower) |
