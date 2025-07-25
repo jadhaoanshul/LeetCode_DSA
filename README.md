@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
 | [3194-find-words-containing-character](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3194-find-words-containing-character) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
+| [3265-maximum-good-subarray-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3265-maximum-good-subarray-sum) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3429-special-array-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3429-special-array-i) |
@@ -195,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2226-rings-and-rods](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2226-rings-and-rods) |
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
+| [3265-maximum-good-subarray-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3265-maximum-good-subarray-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1833-find-the-highest-altitude](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1833-find-the-highest-altitude) |
 | [2249-count-the-hidden-sequences](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2249-count-the-hidden-sequences) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
+| [3265-maximum-good-subarray-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3265-maximum-good-subarray-sum) |
 | [3761-maximum-difference-between-even-and-odd-frequency-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3761-maximum-difference-between-even-and-odd-frequency-ii) |
 ## Depth-First Search
 |  |
