@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0045-jump-game-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0045-jump-game-ii) |
 | [0134-gas-station](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0134-gas-station) |
 | [0502-ipo](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0502-ipo) |
+| [0768-partition-labels](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0768-partition-labels) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2032-largest-odd-number-in-string) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
@@ -179,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
+| [0768-partition-labels](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0768-partition-labels) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [0966-binary-subarrays-with-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1034-subarrays-with-k-different-integers) |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0541-reverse-string-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0541-reverse-string-ii) |
+| [0768-partition-labels](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0768-partition-labels) |
 | [0908-middle-of-the-linked-list](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0908-middle-of-the-linked-list) |
 | [2128-reverse-prefix-of-word](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2128-reverse-prefix-of-word) |
 ## Binary Search
@@ -359,6 +362,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0451-sort-characters-by-frequency) |
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
 | [0541-reverse-string-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0541-reverse-string-ii) |
+| [0768-partition-labels](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0812-rotate-string) |
 | [0824-number-of-lines-to-write-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0824-number-of-lines-to-write-string) |
 | [1160-letter-tile-possibilities](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1160-letter-tile-possibilities) |
