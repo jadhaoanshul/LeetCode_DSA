@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Dynamic Programming
 |  |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -508,6 +510,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2280-count-good-triplets-in-an-array) |
+| [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Merge Sort
 |  |
 | ------- |
