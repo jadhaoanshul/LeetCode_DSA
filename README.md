@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0012-integer-to-roman) |
+| [0050-powx-n](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0060-permutation-sequence) |
 | [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
 | [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0010-regular-expression-matching) |
+| [0050-powx-n](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
