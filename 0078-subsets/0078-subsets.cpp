@@ -1,21 +1,20 @@
 class Solution {
 public:
-vector<vector<int>> subset(vector<int> arr,int index,int n,vector<vector<int> >& ans,vector<int> temp){
-    if(index == n){
-        ans.push_back(temp);
-        return ans ;
+    void printS(int ind, vector<int>& sub, vector<int>& nums, vector<vector<int>>& sto){
+        if (ind == nums.size()) {
+            sto.push_back(sub);
+            return;
+        }
+        sub.push_back(nums[ind]);
+        printS(ind+1, sub, nums, sto);
+        sub.pop_back();
+        printS(ind+1, sub, nums, sto);
     }
-    subset(arr,index+1,n,ans,temp);
-    temp.push_back(arr[index]);
-    subset(arr,index+1,n,ans,temp);
-        return ans ;
-}
     vector<vector<int>> subsets(vector<int>& nums) {
-      vector<vector<int>> ans;  
-      vector<int> temp;
-      int n = nums.size();
-      int index =0;
-      return subset(nums,index,n,ans,temp);
-      
+        vector<vector<int>> sto;
+        vector<int> sub;
+        int n = nums.size();
+        printS(0, sub, nums, sto);
+        return sto;
     }
 };
