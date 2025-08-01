@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0502-ipo) |
 | [0546-remove-boxes](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0546-remove-boxes) |
+| [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 | [0735-asteroid-collision](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0735-asteroid-collision) |
 | [0792-binary-search](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0792-binary-search) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0233-number-of-digit-one](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0279-perfect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0279-perfect-squares) |
+| [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
@@ -601,6 +603,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
+| [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 ## Shortest Path
 |  |
 | ------- |
