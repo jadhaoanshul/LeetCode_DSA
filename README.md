@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2689-rearranging-fruits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2689-rearranging-fruits) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
 | [3194-find-words-containing-character](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3194-find-words-containing-character) |
@@ -158,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2337-remove-digit-from-number-to-maximize-result](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2337-remove-digit-from-number-to-maximize-result) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2487-optimal-partition-of-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2487-optimal-partition-of-string) |
+| [2689-rearranging-fruits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2689-rearranging-fruits) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Hash Table
 |  |
@@ -203,6 +205,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
 | [2487-optimal-partition-of-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2487-optimal-partition-of-string) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2689-rearranging-fruits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2689-rearranging-fruits) |
 | [2915-count-of-interesting-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2915-count-of-interesting-subarrays) |
 | [3265-maximum-good-subarray-sum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3265-maximum-good-subarray-sum) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -255,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2248-minimum-cost-of-buying-candies-with-discount](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2248-minimum-cost-of-buying-candies-with-discount) |
 | [2479-meeting-rooms-iii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2479-meeting-rooms-iii) |
+| [2689-rearranging-fruits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2689-rearranging-fruits) |
 | [3219-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3219-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Prefix Sum
 |  |
