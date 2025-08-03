@@ -1,26 +1,23 @@
-#include <vector>
-using namespace std;
-
 class Solution {
 public:
-    void backtrack(vector<int>& candidates, int target, vector<int>& combination, vector<vector<int>>& result, int start) {
-        if (target == 0) {
-            result.push_back(combination);
+    void comb(int ind, vector<int>& cand, int t, vector<vector<int>>& res, vector<int>& ds){
+        if(ind == cand.size()){
+            if(t == 0)
+                res.push_back(ds);
             return;
         }
-        if (target < 0) return;
 
-        for (int i = start; i < candidates.size(); i++) {
-            combination.push_back(candidates[i]);
-            backtrack(candidates, target - candidates[i], combination, result, i);
-            combination.pop_back();
+        if(cand[ind] <= t){
+            ds.push_back(cand[ind]);
+            comb(ind, cand, t - cand[ind], res, ds);
+            ds.pop_back();
         }
+        comb(ind + 1, cand, t, res, ds);
     }
-
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        vector<vector<int>> result;
-        vector<int> combination;
-        backtrack(candidates, target, combination, result, 0);
-        return result;
+        vector<vector<int>> res;
+        vector<int> ds;
+        comb(0, candidates, target, res, ds);
+        return res;
     }
 };
