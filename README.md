@@ -585,6 +585,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Database
 |  |
 | ------- |
+| [0175-combine-two-tables](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0175-combine-two-tables) |
 | [0595-big-countries](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0595-big-countries) |
 | [1179-game-play-analysis-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1179-game-play-analysis-i) |
 ## Quickselect
