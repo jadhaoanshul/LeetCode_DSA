@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3790-fruits-into-baskets-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3790-fruits-into-baskets-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -242,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2280-count-good-triplets-in-an-array) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3790-fruits-into-baskets-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3790-fruits-into-baskets-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -472,6 +474,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3447-clear-digits) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
+| [3790-fruits-into-baskets-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3790-fruits-into-baskets-ii) |
 ## Stack
 |  |
 | ------- |
@@ -537,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0493-reverse-pairs](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2280-count-good-triplets-in-an-array) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
+| [3790-fruits-into-baskets-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3790-fruits-into-baskets-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -547,6 +551,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0493-reverse-pairs](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0493-reverse-pairs) |
 | [2280-count-good-triplets-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2280-count-good-triplets-in-an-array) |
+| [3790-fruits-into-baskets-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3790-fruits-into-baskets-ii) |
 ## Recursion
 |  |
 | ------- |
