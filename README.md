@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0279-perfect-squares) |
 | [0300-longest-increasing-subsequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0300-longest-increasing-subsequence) |
 | [0377-combination-sum-iv](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0377-combination-sum-iv) |
+| [0458-poor-pigs](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0458-poor-pigs) |
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
 | [0546-remove-boxes](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0546-remove-boxes) |
 | [0943-sum-of-subarray-minimums](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0943-sum-of-subarray-minimums) |
@@ -355,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0391-perfect-rectangle) |
+| [0458-poor-pigs](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0458-poor-pigs) |
 | [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
@@ -538,6 +540,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Combinatorics
 |  |
 | ------- |
+| [0458-poor-pigs](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0458-poor-pigs) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
 ## Enumeration
 |  |
