@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0335-self-crossing](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0377-combination-sum-iv) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0472-concatenated-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0472-concatenated-words) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0424-longest-repeating-character-replacement) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0155-min-stack) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0816-design-hashset](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0816-design-hashset) |
 | [2104-operations-on-tree](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2104-operations-on-tree) |
 | [2139-detect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2139-detect-squares) |
@@ -348,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0279-perfect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
@@ -635,4 +639,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
