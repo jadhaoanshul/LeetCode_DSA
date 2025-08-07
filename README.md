@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3429-special-array-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3790-fruits-into-baskets-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3790-fruits-into-baskets-ii) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2882-ways-to-express-an-integer-as-sum-of-powers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2882-ways-to-express-an-integer-as-sum-of-powers) |
 | [3243-count-the-number-of-powerful-integers](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3243-count-the-number-of-powerful-integers) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 | [3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3688-maximize-subarray-sum-after-removing-all-occurrences-of-one-element) |
 ## Breadth-First Search
 |  |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1876-map-of-highest-peak](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1876-map-of-highest-peak) |
 | [2160-minimum-operations-to-make-a-uni-value-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2160-minimum-operations-to-make-a-uni-value-grid) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3648-find-the-maximum-number-of-fruits-collected](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3648-find-the-maximum-number-of-fruits-collected) |
 ## Greedy
 |  |
 | ------- |
