@@ -343,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0233-number-of-digit-one) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
+| [0273-integer-to-english-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0279-perfect-squares) |
 | [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1013-fibonacci-number) |
@@ -370,6 +371,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0205-isomorphic-strings) |
 | [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0242-valid-anagram) |
+| [0273-integer-to-english-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0273-integer-to-english-words) |
 | [0344-reverse-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -564,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0206-reverse-linked-list) |
 | [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0233-number-of-digit-one) |
+| [0273-integer-to-english-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0273-integer-to-english-words) |
 | [1013-fibonacci-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1013-fibonacci-number) |
 | [3600-find-the-k-th-character-in-string-game-i](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/3600-find-the-k-th-character-in-string-game-i) |
 ## Queue
