@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0300-longest-increasing-subsequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0300-longest-increasing-subsequence) |
+| [0335-self-crossing](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0335-self-crossing) |
 | [0349-intersection-of-two-arrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0349-intersection-of-two-arrays) |
 | [0377-combination-sum-iv](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0377-combination-sum-iv) |
 | [0399-evaluate-division](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0399-evaluate-division) |
@@ -346,6 +347,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0279-perfect-squares) |
 | [0282-expression-add-operators](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0282-expression-add-operators) |
+| [0335-self-crossing](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
@@ -627,6 +629,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0335-self-crossing) |
 | [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 ## Shortest Path
 |  |
