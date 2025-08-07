@@ -345,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0268-missing-number) |
 | [0273-integer-to-english-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0273-integer-to-english-words) |
 | [0279-perfect-squares](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0279-perfect-squares) |
+| [0282-expression-add-operators](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0282-expression-add-operators) |
 | [0587-erect-the-fence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0587-erect-the-fence) |
 | [1013-fibonacci-number](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1013-fibonacci-number) |
 | [1370-count-number-of-nice-subarrays](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1370-count-number-of-nice-subarrays) |
@@ -372,6 +373,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0224-basic-calculator](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0224-basic-calculator) |
 | [0242-valid-anagram](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0242-valid-anagram) |
 | [0273-integer-to-english-words](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0273-integer-to-english-words) |
+| [0282-expression-add-operators](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0282-expression-add-operators) |
 | [0344-reverse-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0387-first-unique-character-in-a-string) |
@@ -452,6 +454,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0078-subsets) |
 | [0131-palindrome-partitioning](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0131-palindrome-partitioning) |
+| [0282-expression-add-operators](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/0282-expression-add-operators) |
 | [1160-letter-tile-possibilities](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1160-letter-tile-possibilities) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1993-sum-of-all-subset-xor-totals](https://github.com/jadhaoanshul/LeetCode--C-Java/tree/master/1993-sum-of-all-subset-xor-totals) |
